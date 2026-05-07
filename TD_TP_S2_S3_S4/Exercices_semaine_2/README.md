@@ -21,3 +21,7 @@ Pipeline de nettoyage — Données marchés camerounais
 # Partie 5 — Visualisation des résultats
 
 # Partie 6 — Export et livraison
+
+git add S2_TP_Pandas_VOTRE_NOM.ipynb marches_cameroun_propre.csv
+git commit -m "Semaine 2 : TP Pandas nettoyage données marchés"
+git push origin main

@@ -1,0 +1,616 @@
+mois,marche,ville,produit,prix_fcfa,quantite,total,collecteur
+Avr,New-Bell,Douala,Manioc (kg),187.0,75,14025,Enquêteur_C
+Avr,Marché Central,Yaoundé,Riz (1kg),515.0,31,15965,Enquêteur_C
+Fév,Marché Biyem,Yaoundé,Arachide (kg),333.0,28,9324,Enquêteur_C
+Mar,Marché Central,Yaoundé,Arachide (kg),633.0,55,34815,Enquêteur_A
+Mai,Marché Biyem,Yaoundé,Sucre (1kg),505.0,98,49490,Enquêteur_C
+Avr,Mokolo,Douala,Arachide (kg),814.0,95,77330,Enquêteur_B
+Fév,Grand Marché,Bafoussam,Riz (1kg),496.0,12,5952,Enquêteur_A
+Avr,Grand Marché,Bafoussam,Poisson fumé (kg),3899.0,78,304122,Enquêteur_B
+Avr,Marché Biyem,Yaoundé,Poisson fumé (kg),3509.0,60,210540,Enquêteur_B
+Mai,Marché Biyem,Yaoundé,Tomate (kg),323.0,94,30362,Enquêteur_A
+Fév,Grand Marché,Bafoussam,Poisson fumé (kg),3194.0,91,290654,Enquêteur_B
+Mai,Marché Biyem,Yaoundé,Riz (1kg),539.0,90,48510,Enquêteur_A
+Mar,Marché Biyem,Yaoundé,Riz (1kg),588.0,33,19404,Enquêteur_C
+Jan,Grand Marché,Bafoussam,Poisson fumé (kg),2730.0,13,35490,Enquêteur_B
+Mai,Mokolo,Douala,Riz (1kg),552.0,12,6624,Enquêteur_C
+Fév,Mokolo,Douala,Riz (1kg),360.0,36,12960,Enquêteur_A
+Jan,Mokolo,Douala,Poulet (kg),,59,122425,Enquêteur_A
+Avr,Grand Marché,Bafoussam,Sucre (1kg),590.0,93,54870,Enquêteur_B
+Mai,Marché Biyem,Yaoundé,Poisson fumé (kg),3861.0,25,96525,Enquêteur_A
+Avr,Grand Marché,Bafoussam,Tomate (kg),224.0,35,7840,Enquêteur_A
+Jun,Marché Central,Yaoundé,Manioc (kg),149.0,65,9685,Enquêteur_B
+Mar,Mokolo,Douala,Plantain (kg),416.0,84,34944,Enquêteur_C
+Mar,Grand Marché,Bafoussam,Arachide (kg),592.0,26,15392,Enquêteur_B
+Fév,Mvog-Mbi,Yaoundé,Igname (kg),391.0,8,3128,Enquêteur_B
+Jun,New-Bell,Douala,Arachide (kg),683.0,77,52591,Enquêteur_A
+Mai,Grand Marché,Bafoussam,Sucre (1kg),568.0,79,44872,Enquêteur_A
+Jan,Mokolo,Douala,Huile (1L),1068.0,85,90780,Enquêteur_C
+Fév,Grand Marché,Bafoussam,Arachide (kg),699.0,13,9087,Enquêteur_B
+Fév,Mvog-Mbi,Yaoundé,Sucre (1kg),674.0,35,23590,Enquêteur_C
+Avr,Marché Central,Yaoundé,Igname (kg),513.0,74,37962,Enquêteur_B
+Fév,New-Bell,Douala,Sucre (1kg),426.0,57,24282,Enquêteur_C
+Fév,Grand Marché,Bafoussam,Arachide (kg),642.0,18,11556,Enquêteur_A
+Mai,Marché Central,Yaoundé,Sucre (1kg),679.0,79,53641,Enquêteur_C
+Jan,Mvog-Mbi,Yaoundé,Riz (1kg),451.0,50,22550,Enquêteur_B
+Avr,Grand Marché,Bafoussam,Poisson fumé (kg),3791.0,81,307071,Enquêteur_B
+Avr,Marché Biyem,Yaoundé,Huile (1L),1499.0,8,11992,Enquêteur_A
+Mai,Grand Marché,Bafoussam,Sucre (1kg),596.0,92,54832,Enquêteur_C
+Mai,Mokolo,Douala,Plantain (kg),193.0,77,14861,Enquêteur_B
+Fév,Sandaga,Douala,Huile (1L),1010.0,33,33330,Enquêteur_A
+Mai,Mvog-Mbi,Yaoundé,Poulet (kg),3202.0,7,22414,Enquêteur_A
+Jun,Grand Marché,Bafoussam,Riz (1kg),514.0,23,11822,Enquêteur_B
+Mar,Grand Marché,Bafoussam,Poulet (kg),2533.0,91,230503,Enquêteur_A
+Fév,Mvog-Mbi,Yaoundé,Riz (1kg),508.0,60,30480,Enquêteur_C
+Fév,Sandaga,Douala,Huile (1L),908.0,62,56296,Enquêteur_A
+Mar,Sandaga,Douala,Huile (1L),1300.0,6,7800,Enquêteur_B
+Mar,New-Bell,Douala,Arachide (kg),,17,14110,Enquêteur_A
+Fév,Marché Central,Yaoundé,Manioc (kg),135.0,12,1620,Enquêteur_A
+Fév,Marché Biyem,Yaoundé,Poisson fumé (kg),3398.0,16,54368,Enquêteur_A
+Jan,Sandaga,Douala,Igname (kg),304.0,77,23408,Enquêteur_A
+Fév,Grand Marché,Bafoussam,Poulet (kg),2729.0,62,169198,Enquêteur_C
+Avr,New-Bell,Douala,Poulet (kg),2928.0,16,46848,Enquêteur_B
+Mar,Grand Marché,Bafoussam,Manioc (kg),174.0,9,1566,Enquêteur_A
+Jan,Grand Marché,Bafoussam,Tomate (kg),193.0,68,13124,Enquêteur_A
+Fév,Sandaga,Douala,Plantain (kg),393.0,23,9039,Enquêteur_C
+Mai,Mvog-Mbi,Yaoundé,Poisson fumé (kg),,35,117460,Enquêteur_B
+Avr,Marché Central,Yaoundé,Plantain (kg),386.0,27,10422,Enquêteur_B
+Jan,Grand Marché,Bafoussam,Huile (1L),1289.0,76,97964,Enquêteur_A
+Jun,Mfoundi,Yaoundé,Tomate (kg),318.0,32,10176,Enquêteur_C
+Jan,Mfoundi,Yaoundé,Manioc (kg),171.0,68,11628,Enquêteur_C
+Jan,Mokolo,Douala,Manioc (kg),97.0,12,1164,Enquêteur_A
+Mai,Marché Central,Yaoundé,Tomate (kg),200.0,98,19600,Enquêteur_C
+Avr,Mvog-Mbi,Yaoundé,Tomate (kg),,57,23028,Enquêteur_C
+Mai,Mokolo,Douala,Sucre (1kg),633.0,21,13293,Enquêteur_A
+Mai,Marché Central,Yaoundé,Arachide (kg),602.0,58,34916,Enquêteur_A
+Fév,Sandaga,Douala,Plantain (kg),337.0,53,17861,Enquêteur_C
+Jan,Sandaga,Douala,Tomate (kg),296.0,10,2960,Enquêteur_C
+Jan,Marché Central,Yaoundé,Sucre (1kg),696.0,75,52200,Enquêteur_B
+Jan,Mfoundi,Yaoundé,Arachide (kg),566.0,10,5660,Enquêteur_B
+Fév,Mfoundi,Yaoundé,Tomate (kg),258.0,64,16512,Enquêteur_C
+Jan,Marché Central,Yaoundé,Sucre (1kg),459.0,46,21114,Enquêteur_C
+Avr,Mokolo,Douala,Huile (1L),1203.0,31,37293,Enquêteur_C
+Fév,Mfoundi,Yaoundé,Manioc (kg),201.0,94,18894,Enquêteur_C
+Jun,Mvog-Mbi,Yaoundé,Poulet (kg),2454.0,24,58896,Enquêteur_A
+Mai,Mvog-Mbi,Yaoundé,Riz (1kg),607.0,60,36420,Enquêteur_C
+Mar,New-Bell,Douala,Poulet (kg),2140.0,57,121980,Enquêteur_C
+Avr,New-Bell,Douala,Igname (kg),326.0,83,27058,Enquêteur_A
+Jan,Mfoundi,Yaoundé,Arachide (kg),757.0,35,26495,Enquêteur_A
+Jun,New-Bell,Douala,Huile (1L),1153.0,10,11530,Enquêteur_A
+Mar,Marché Biyem,Yaoundé,Manioc (kg),221.0,22,4862,Enquêteur_B
+Mai,Mvog-Mbi,Yaoundé,Igname (kg),649.0,95,61655,Enquêteur_C
+Mar,Mfoundi,Yaoundé,Plantain (kg),344.0,11,3784,Enquêteur_B
+Avr,Marché Biyem,Yaoundé,Sucre (1kg),,13,8099,Enquêteur_B
+Fév,New-Bell,Douala,Sucre (1kg),610.0,42,25620,Enquêteur_B
+Jan,Marché Central,Yaoundé,Sucre (1kg),581.0,69,40089,Enquêteur_B
+Avr,Mvog-Mbi,Yaoundé,Plantain (kg),384.0,38,14592,Enquêteur_B
+Fév,Grand Marché,Bafoussam,Arachide (kg),620.0,12,7440,Enquêteur_B
+Mai,Mfoundi,Yaoundé,Plantain (kg),442.0,16,7072,Enquêteur_C
+Mar,Mfoundi,Yaoundé,Manioc (kg),171.0,40,6840,Enquêteur_C
+Jun,Grand Marché,Bafoussam,Tomate (kg),,3,696,Enquêteur_A
+Mar,Marché Biyem,Yaoundé,Plantain (kg),153.0,17,2601,Enquêteur_B
+Fév,Mvog-Mbi,Yaoundé,Tomate (kg),176.0,41,7216,Enquêteur_C
+Jan,Sandaga,Douala,Poisson fumé (kg),4026.0,60,241560,Enquêteur_A
+Jan,Marché Biyem,Yaoundé,Tomate (kg),312.0,3,936,Enquêteur_C
+Avr,Mokolo,Douala,Igname (kg),777.0,64,49728,Enquêteur_C
+Avr,Mfoundi,Yaoundé,Sucre (1kg),753.0,30,22590,Enquêteur_A
+Mai,Mfoundi,Yaoundé,Huile (1L),884.0,66,58344,Enquêteur_A
+Mar,New-Bell,Douala,Tomate (kg),266.0,28,7448,Enquêteur_A
+Mar,Marché Biyem,Yaoundé,Poulet (kg),2676.0,30,80280,Enquêteur_C
+Mar,New-Bell,Douala,Igname (kg),392.0,26,10192,Enquêteur_A
+Mai,Mvog-Mbi,Yaoundé,Huile (1L),1431.0,82,117342,Enquêteur_C
+Fév,Sandaga,Douala,Manioc (kg),174.0,20,3480,Enquêteur_B
+Jun,Sandaga,Douala,Manioc (kg),181.0,30,5430,Enquêteur_C
+Mar,Marché Central,Yaoundé,Tomate (kg),440.0,83,36520,Enquêteur_A
+Jan,Marché Biyem,Yaoundé,Poulet (kg),25270.0,71,179417,Enquêteur_C
+Mai,Marché Central,Yaoundé,Tomate (kg),506.0,58,29348,Enquêteur_C
+Jan,New-Bell,Douala,Poulet (kg),2544.0,6,15264,Enquêteur_B
+Mar,Marché Biyem,Yaoundé,Manioc (kg),176.0,83,14608,Enquêteur_C
+Fév,Grand Marché,Bafoussam,Manioc (kg),234.0,95,22230,Enquêteur_B
+Avr,Marché Biyem,Yaoundé,Poisson fumé (kg),3419.0,10,34190,Enquêteur_B
+Mar,Sandaga,Douala,Plantain (kg),177.0,20,3540,Enquêteur_C
+Jun,Marché Biyem,Yaoundé,Poulet (kg),3040.0,85,258400,Enquêteur_C
+Avr,Sandaga,Douala,Plantain (kg),179.0,83,14857,Enquêteur_C
+Jun,New-Bell,Douala,Plantain (kg),,12,3348,Enquêteur_A
+Fév,Mfoundi,Yaoundé,Poisson fumé (kg),3503.0,44,154132,Enquêteur_A
+Jan,Mvog-Mbi,Yaoundé,Riz (1kg),474.0,62,29388,Enquêteur_B
+Jan,Marché Central,Yaoundé,Poisson fumé (kg),3197.0,76,242972,Enquêteur_B
+Jan,Mvog-Mbi,Yaoundé,Manioc (kg),231.0,86,19866,Enquêteur_C
+Fév,Grand Marché,Bafoussam,Huile (1L),1318.0,90,118620,Enquêteur_B
+Mai,Grand Marché,Bafoussam,Plantain (kg),397.0,37,14689,Enquêteur_B
+Fév,Sandaga,Douala,Igname (kg),443.0,26,11518,Enquêteur_A
+Mar,Marché Biyem,Yaoundé,Riz (1kg),445.0,8,3560,Enquêteur_A
+Mar,Marché Central,Yaoundé,Huile (1L),1865.0,48,89520,Enquêteur_C
+Mai,New-Bell,Douala,Igname (kg),531.0,55,29205,Enquêteur_B
+Mai,New-Bell,Douala,Plantain (kg),503.0,31,15593,Enquêteur_C
+Jan,Mokolo,Douala,Arachide (kg),778.0,32,24896,Enquêteur_A
+Mai,Sandaga,Douala,Manioc (kg),219.0,42,9198,Enquêteur_B
+Avr,New-Bell,Douala,Riz (1kg),486.0,60,29160,Enquêteur_C
+Mai,Marché Biyem,Yaoundé,Riz (1kg),522.0,95,49590,Enquêteur_C
+Jan,Marché Biyem,Yaoundé,Poisson fumé (kg),2780.0,71,197380,Enquêteur_A
+Jan,Marché Central,Yaoundé,Arachide (kg),530.0,53,28090,Enquêteur_A
+Mar,Mfoundi,Yaoundé,Igname (kg),435.0,22,9570,Enquêteur_A
+Jan,Mokolo,Douala,Manioc (kg),182.0,39,7098,Enquêteur_C
+Avr,Marché Central,Yaoundé,Riz (1kg),579.0,80,46320,Enquêteur_C
+Jan,Marché Biyem,Yaoundé,Manioc (kg),207.0,84,17388,Enquêteur_B
+Mar,Grand Marché,Bafoussam,Sucre (1kg),586.0,29,16994,Enquêteur_B
+Mai,New-Bell,Douala,Arachide (kg),614.0,32,19648,Enquêteur_A
+Mar,New-Bell,Douala,Tomate (kg),417.0,73,30441,Enquêteur_A
+Jan,New-Bell,Douala,Riz (1kg),503.0,59,29677,Enquêteur_B
+Jan,Marché Central,Yaoundé,Huile (1L),1267.0,87,110229,Enquêteur_C
+Fév,Sandaga,Douala,Arachide (kg),772.0,14,10808,Enquêteur_B
+Avr,Mokolo,Douala,Igname (kg),455.0,63,28665,Enquêteur_A
+Mai,Sandaga,Douala,Poisson fumé (kg),4026.0,88,354288,Enquêteur_C
+Mai,New-Bell,Douala,Igname (kg),476.0,29,13804,Enquêteur_B
+Avr,Mokolo,Douala,Sucre (1kg),601.0,73,43873,Enquêteur_A
+Mai,Marché Biyem,Yaoundé,Tomate (kg),252.0,83,20916,Enquêteur_A
+Mai,Mokolo,Douala,Igname (kg),400.0,40,16000,Enquêteur_A
+Fév,Grand Marché,Bafoussam,Tomate (kg),501.0,15,7515,Enquêteur_A
+Mai,Sandaga,Douala,Manioc (kg),199.0,91,18109,Enquêteur_A
+Jan,Sandaga,Douala,Poisson fumé (kg),3753.0,16,60048,Enquêteur_A
+Mai,Sandaga,Douala,Riz (1kg),498.0,2,996,Enquêteur_C
+Fév,Mvog-Mbi,Yaoundé,Poisson fumé (kg),3180.0,63,200340,Enquêteur_B
+Jan,New-Bell,Douala,Poulet (kg),1777.0,4,7108,Enquêteur_C
+Jan,Mokolo,Douala,Tomate (kg),362.0,70,25340,Enquêteur_A
+Jun,Sandaga,Douala,Igname (kg),352.0,17,5984,Enquêteur_B
+Fév,Grand Marché,Bafoussam,Plantain (kg),186.0,62,11532,Enquêteur_B
+Mar,Mokolo,Douala,Riz (1kg),435.0,27,11745,Enquêteur_B
+Mar,Marché Biyem,Yaoundé,Plantain (kg),193.0,38,7334,Enquêteur_C
+Mai,Mvog-Mbi,Yaoundé,Manioc (kg),219.0,94,20586,Enquêteur_B
+Avr,Mokolo,Douala,Poisson fumé (kg),3997.0,37,147889,Enquêteur_C
+Jun,Mokolo,Douala,Poisson fumé (kg),2982.0,1,2982,Enquêteur_B
+Jan,Grand Marché,Bafoussam,Plantain (kg),284.0,10,2840,Enquêteur_A
+Fév,Marché Central,Yaoundé,Poisson fumé (kg),2961.0,53,156933,Enquêteur_A
+Mai,Sandaga,Douala,Tomate (kg),170.0,97,16490,Enquêteur_B
+Fév,Mvog-Mbi,Yaoundé,Poulet (kg),2693.0,32,86176,Enquêteur_C
+Mar,Mokolo,Douala,Plantain (kg),201.0,52,10452,Enquêteur_C
+Avr,New-Bell,Douala,Arachide (kg),661.0,13,8593,Enquêteur_A
+Mai,Mfoundi,Yaoundé,Igname (kg),494.0,95,46930,Enquêteur_A
+Avr,Sandaga,Douala,Plantain (kg),231.0,16,3696,Enquêteur_C
+Avr,New-Bell,Douala,Igname (kg),510.0,49,24990,Enquêteur_A
+Jun,Mvog-Mbi,Yaoundé,Igname (kg),647.0,34,21998,Enquêteur_B
+Mar,Mvog-Mbi,Yaoundé,Poisson fumé (kg),2816.0,10,28160,Enquêteur_C
+Mai,New-Bell,Douala,Riz (1kg),508.0,32,16256,Enquêteur_B
+Mai,Mvog-Mbi,Yaoundé,Plantain (kg),404.0,34,13736,Enquêteur_C
+Jun,Mvog-Mbi,Yaoundé,Huile (1L),1094.0,89,97366,Enquêteur_C
+Jun,Sandaga,Douala,Manioc (kg),258.0,51,13158,Enquêteur_B
+Fév,New-Bell,Douala,Huile (1L),1187.0,40,47480,Enquêteur_C
+Mai,Marché Central,Yaoundé,Plantain (kg),321.0,35,11235,Enquêteur_B
+Fév,Sandaga,Douala,Tomate (kg),208.0,86,17888,Enquêteur_A
+Fév,Sandaga,Douala,Manioc (kg),224.0,84,18816,Enquêteur_A
+Mai,New-Bell,Douala,Igname (kg),531.0,81,43011,Enquêteur_C
+Mar,Sandaga,Douala,Huile (1L),1164.0,72,83808,Enquêteur_A
+Mar,Mvog-Mbi,Yaoundé,Igname (kg),458.0,56,25648,Enquêteur_A
+Mar,Grand Marché,Bafoussam,Riz (1kg),438.0,62,27156,Enquêteur_A
+Mar,New-Bell,Douala,Huile (1L),849.0,35,29715,Enquêteur_B
+Jun,Mvog-Mbi,Yaoundé,Plantain (kg),283.0,10,2830,Enquêteur_C
+Fév,Mvog-Mbi,Yaoundé,Poisson fumé (kg),2854.0,95,271130,Enquêteur_C
+Jan,Mokolo,Douala,Poisson fumé (kg),3660.0,99,362340,Enquêteur_B
+Mar,Mfoundi,Yaoundé,Manioc (kg),168.0,63,10584,Enquêteur_C
+Avr,Marché Central,Yaoundé,Arachide (kg),787.0,52,40924,Enquêteur_C
+Mar,Mvog-Mbi,Yaoundé,Poisson fumé (kg),4093.0,75,306975,Enquêteur_A
+Mar,Sandaga,Douala,Manioc (kg),235.0,71,16685,Enquêteur_B
+Jan,New-Bell,Douala,Sucre (1kg),593.0,17,10081,Enquêteur_B
+Jan,Mvog-Mbi,Yaoundé,Poisson fumé (kg),4190.0,98,410620,Enquêteur_C
+Jan,Grand Marché,Bafoussam,Sucre (1kg),481.0,40,19240,Enquêteur_A
+Mai,Mfoundi,Yaoundé,Poisson fumé (kg),3764.0,44,165616,Enquêteur_C
+Mai,Mvog-Mbi,Yaoundé,Poulet (kg),2254.0,67,151018,Enquêteur_B
+Mai,New-Bell,Douala,Poisson fumé (kg),4543.0,4,18172,Enquêteur_A
+Jan,New-Bell,Douala,Manioc (kg),262.0,72,18864,Enquêteur_A
+Avr,Sandaga,Douala,Manioc (kg),244.0,33,8052,Enquêteur_C
+Mar,Mfoundi,Yaoundé,Arachide (kg),829.0,72,59688,Enquêteur_C
+Avr,Mfoundi,Yaoundé,Poisson fumé (kg),4500.0,13,58500,Enquêteur_C
+Avr,Sandaga,Douala,Riz (1kg),512.0,37,18944,Enquêteur_C
+Avr,Marché Central,Yaoundé,Igname (kg),594.0,15,8910,Enquêteur_C
+Jan,Marché Biyem,Yaoundé,Tomate (kg),275.0,57,15675,Enquêteur_C
+Jan,Mokolo,Douala,Igname (kg),466.0,51,23766,Enquêteur_A
+Mai,New-Bell,Douala,Huile (1L),1660.0,15,24900,Enquêteur_C
+Jan,Grand Marché,Bafoussam,Huile (1L),1033.0,40,41320,Enquêteur_B
+Fév,Mvog-Mbi,Yaoundé,Riz (1kg),336.0,62,20832,Enquêteur_B
+Jan,Mokolo,Douala,Igname (kg),410.0,38,15580,Enquêteur_B
+Mai,Marché Central,Yaoundé,Huile (1L),1328.0,12,15936,Enquêteur_A
+Mar,Mfoundi,Yaoundé,Huile (1L),1123.0,22,24706,Enquêteur_C
+Avr,Grand Marché,Bafoussam,Manioc (kg),240.0,46,11040,Enquêteur_B
+Avr,Sandaga,Douala,Huile (1L),1450.0,31,44950,Enquêteur_A
+Jan,New-Bell,Douala,Manioc (kg),182.0,81,14742,Enquêteur_C
+Avr,Mvog-Mbi,Yaoundé,Riz (1kg),,49,25578,Enquêteur_C
+Fév,New-Bell,Douala,Arachide (kg),668.0,45,30060,Enquêteur_A
+Jun,Mfoundi,Yaoundé,Poisson fumé (kg),3682.0,58,213556,Enquêteur_C
+Jun,New-Bell,Douala,Plantain (kg),363.0,44,15972,Enquêteur_C
+Avr,Marché Central,Yaoundé,Poulet (kg),2007.0,98,196686,Enquêteur_A
+Fév,Sandaga,Douala,Poisson fumé (kg),,7,29799,Enquêteur_C
+Jun,New-Bell,Douala,Igname (kg),564.0,25,14100,Enquêteur_C
+Mai,New-Bell,Douala,Manioc (kg),,7,1302,Enquêteur_B
+Jun,Mokolo,Douala,Tomate (kg),316.0,17,5372,Enquêteur_A
+Jun,Grand Marché,Bafoussam,Poulet (kg),2907.0,83,241281,Enquêteur_C
+Mai,Marché Central,Yaoundé,Sucre (1kg),727.0,58,42166,Enquêteur_B
+Mai,Mokolo,Douala,Poulet (kg),2266.0,24,54384,Enquêteur_A
+Mai,Mokolo,Douala,Plantain (kg),259.0,5,1295,Enquêteur_A
+Jan,Marché Biyem,Yaoundé,Igname (kg),603.0,58,34974,Enquêteur_B
+Jan,Marché Biyem,Yaoundé,Tomate (kg),138.0,27,3726,Enquêteur_C
+Jun,Mfoundi,Yaoundé,Plantain (kg),419.0,28,11732,Enquêteur_C
+Jan,Sandaga,Douala,Sucre (1kg),565.0,3,1695,Enquêteur_B
+Avr,Grand Marché,Bafoussam,Huile (1L),1092.0,50,54600,Enquêteur_B
+Avr,Mvog-Mbi,Yaoundé,Manioc (kg),126.0,26,3276,Enquêteur_A
+Mai,New-Bell,Douala,Poulet (kg),2797.0,59,165023,Enquêteur_B
+Mar,Sandaga,Douala,Huile (1L),1007.0,66,66462,Enquêteur_A
+Fév,Grand Marché,Bafoussam,Poulet (kg),2504.0,36,90144,Enquêteur_B
+Jun,Mfoundi,Yaoundé,Poisson fumé (kg),3048.0,88,268224,Enquêteur_B
+Jun,Mokolo,Douala,Manioc (kg),227.0,14,3178,Enquêteur_B
+Mai,Marché Central,Yaoundé,Huile (1L),870.0,57,49590,Enquêteur_C
+Jan,Mvog-Mbi,Yaoundé,Huile (1L),1029.0,47,48363,Enquêteur_B
+Mai,Mfoundi,Yaoundé,Arachide (kg),885.0,80,70800,Enquêteur_C
+Fév,Mfoundi,Yaoundé,Tomate (kg),276.0,40,11040,Enquêteur_B
+Fév,Sandaga,Douala,Igname (kg),545.0,22,11990,Enquêteur_A
+Jun,Marché Central,Yaoundé,Poulet (kg),2543.0,31,78833,Enquêteur_A
+Jun,Mfoundi,Yaoundé,Poulet (kg),2683.0,63,169029,Enquêteur_C
+Fév,Mokolo,Douala,Huile (1L),1144.0,74,84656,Enquêteur_B
+Jan,Mfoundi,Yaoundé,Huile (1L),889.0,9,8001,Enquêteur_B
+Fév,Mokolo,Douala,Plantain (kg),489.0,86,42054,Enquêteur_C
+Mai,Marché Central,Yaoundé,Riz (1kg),493.0,57,28101,Enquêteur_C
+Jun,Mfoundi,Yaoundé,Arachide (kg),569.0,15,8535,Enquêteur_B
+Avr,Mfoundi,Yaoundé,Riz (1kg),429.0,71,30459,Enquêteur_B
+Jan,Marché Biyem,Yaoundé,Manioc (kg),2170.0,16,3472,Enquêteur_B
+Avr,Sandaga,Douala,Plantain (kg),316.0,71,22436,Enquêteur_A
+Fév,Marché Central,Yaoundé,Poulet (kg),2528.0,24,60672,Enquêteur_C
+Fév,Mfoundi,Yaoundé,Huile (1L),969.0,78,75582,Enquêteur_A
+Jun,Mfoundi,Yaoundé,Igname (kg),604.0,22,13288,Enquêteur_A
+Jan,Marché Central,Yaoundé,Sucre (1kg),587.0,23,13501,Enquêteur_A
+Fév,Mfoundi,Yaoundé,Plantain (kg),230.0,68,15640,Enquêteur_A
+Mai,Sandaga,Douala,Manioc (kg),186.0,51,9486,Enquêteur_A
+Mar,New-Bell,Douala,Arachide (kg),742.0,52,38584,Enquêteur_C
+Jan,Mfoundi,Yaoundé,Huile (1L),993.0,40,39720,Enquêteur_A
+Fév,Mvog-Mbi,Yaoundé,Manioc (kg),151.0,25,3775,Enquêteur_A
+Mar,Marché Biyem,Yaoundé,Poisson fumé (kg),3959.0,10,39590,Enquêteur_B
+Mai,Marché Biyem,Yaoundé,Poulet (kg),2953.0,82,242146,Enquêteur_A
+Jan,Grand Marché,Bafoussam,Huile (1L),1224.0,15,18360,Enquêteur_C
+Mar,Sandaga,Douala,Plantain (kg),354.0,13,4602,Enquêteur_B
+Mai,New-Bell,Douala,Igname (kg),391.0,86,33626,Enquêteur_A
+Mar,Grand Marché,Bafoussam,Tomate (kg),273.0,66,18018,Enquêteur_A
+Jan,New-Bell,Douala,Manioc (kg),197.0,53,10441,Enquêteur_A
+Jun,Mvog-Mbi,Yaoundé,Arachide (kg),642.0,81,52002,Enquêteur_A
+Jan,New-Bell,Douala,Poulet (kg),2807.0,23,64561,Enquêteur_A
+Jan,Sandaga,Douala,Huile (1L),1015.0,80,81200,Enquêteur_A
+Fév,Mfoundi,Yaoundé,Arachide (kg),467.0,63,29421,Enquêteur_C
+Mai,New-Bell,Douala,Riz (1kg),551.0,43,23693,Enquêteur_B
+Jun,Marché Central,Yaoundé,Manioc (kg),132.0,25,3300,Enquêteur_A
+Avr,Mvog-Mbi,Yaoundé,Manioc (kg),254.0,71,18034,Enquêteur_B
+Mar,Sandaga,Douala,Tomate (kg),4050.0,15,6075,Enquêteur_A
+Avr,Mokolo,Douala,Plantain (kg),318.0,37,11766,Enquêteur_A
+Mai,Mfoundi,Yaoundé,Plantain (kg),133.0,21,2793,Enquêteur_B
+Fév,Grand Marché,Bafoussam,Manioc (kg),125.0,75,9375,Enquêteur_C
+Fév,Marché Central,Yaoundé,Plantain (kg),436.0,17,7412,Enquêteur_B
+Avr,Marché Biyem,Yaoundé,Plantain (kg),413.0,63,26019,Enquêteur_B
+Jan,Sandaga,Douala,Manioc (kg),172.0,40,6880,Enquêteur_C
+Mai,Marché Central,Yaoundé,Igname (kg),583.0,18,10494,Enquêteur_C
+Fév,Marché Biyem,Yaoundé,Igname (kg),583.0,15,8745,Enquêteur_A
+Jun,Mvog-Mbi,Yaoundé,Arachide (kg),361.0,82,29602,Enquêteur_A
+Mai,Marché Biyem,Yaoundé,Manioc (kg),226.0,13,2938,Enquêteur_B
+Jan,Marché Biyem,Yaoundé,Poisson fumé (kg),3457.0,17,58769,Enquêteur_C
+Jan,Mokolo,Douala,Huile (1L),960.0,75,72000,Enquêteur_C
+Mar,Mokolo,Douala,Tomate (kg),330.0,12,3960,Enquêteur_C
+Jan,Marché Central,Yaoundé,Arachide (kg),564.0,8,4512,Enquêteur_B
+Mar,Mvog-Mbi,Yaoundé,Igname (kg),368.0,33,12144,Enquêteur_B
+Jan,Grand Marché,Bafoussam,Sucre (1kg),423.0,87,36801,Enquêteur_A
+Jan,New-Bell,Douala,Poisson fumé (kg),2264.0,16,36224,Enquêteur_A
+Jan,Grand Marché,Bafoussam,Sucre (1kg),543.0,36,19548,Enquêteur_B
+Mai,Marché Central,Yaoundé,Poulet (kg),2361.0,78,184158,Enquêteur_C
+Avr,Marché Central,Yaoundé,Sucre (1kg),660.0,2,1320,Enquêteur_C
+Fév,Marché Biyem,Yaoundé,Igname (kg),,28,13748,Enquêteur_C
+Mai,Mvog-Mbi,Yaoundé,Huile (1L),1508.0,36,54288,Enquêteur_C
+Jan,Marché Biyem,Yaoundé,Poisson fumé (kg),4091.0,98,400918,Enquêteur_C
+Mar,Grand Marché,Bafoussam,Riz (1kg),496.0,93,46128,Enquêteur_C
+Mar,Mvog-Mbi,Yaoundé,Arachide (kg),689.0,33,22737,Enquêteur_A
+Mar,Mfoundi,Yaoundé,Tomate (kg),79.0,33,2607,Enquêteur_A
+Fév,Mokolo,Douala,Riz (1kg),562.0,22,12364,Enquêteur_A
+Mai,Mvog-Mbi,Yaoundé,Tomate (kg),335.0,26,8710,Enquêteur_A
+Mai,Sandaga,Douala,Tomate (kg),50.0,85,4250,Enquêteur_B
+Avr,Marché Central,Yaoundé,Igname (kg),515.0,60,30900,Enquêteur_C
+Fév,New-Bell,Douala,Tomate (kg),306.0,4,1224,Enquêteur_B
+Jun,Marché Biyem,Yaoundé,Sucre (1kg),516.0,4,2064,Enquêteur_B
+Mai,Sandaga,Douala,Huile (1L),1297.0,35,45395,Enquêteur_C
+Mar,Sandaga,Douala,Poulet (kg),2788.0,1,2788,Enquêteur_B
+Avr,Marché Central,Yaoundé,Poulet (kg),3118.0,45,140310,Enquêteur_B
+Avr,Grand Marché,Bafoussam,Poulet (kg),2941.0,2,5882,Enquêteur_B
+Mar,Mvog-Mbi,Yaoundé,Igname (kg),268.0,53,14204,Enquêteur_B
+Mar,Mfoundi,Yaoundé,Arachide (kg),529.0,56,29624,Enquêteur_C
+Jan,Sandaga,Douala,Riz (1kg),418.0,30,12540,Enquêteur_B
+Jun,Mokolo,Douala,Plantain (kg),,65,12545,Enquêteur_B
+Mar,Marché Central,Yaoundé,Poulet (kg),,43,87462,Enquêteur_B
+Mai,Mokolo,Douala,Huile (1L),1528.0,12,18336,Enquêteur_A
+Mai,Mfoundi,Yaoundé,Sucre (1kg),568.0,92,52256,Enquêteur_A
+Jan,Sandaga,Douala,Manioc (kg),230.0,8,1840,Enquêteur_C
+Jan,Mfoundi,Yaoundé,Igname (kg),294.0,59,17346,Enquêteur_C
+Jan,Marché Central,Yaoundé,Igname (kg),455.0,56,25480,Enquêteur_A
+Mar,New-Bell,Douala,Igname (kg),556.0,45,25020,Enquêteur_C
+Mai,Mfoundi,Yaoundé,Poulet (kg),2603.0,55,143165,Enquêteur_A
+Fév,Mokolo,Douala,Igname (kg),311.0,41,12751,Enquêteur_C
+Mar,Grand Marché,Bafoussam,Manioc (kg),213.0,78,16614,Enquêteur_C
+Jan,Mfoundi,Yaoundé,Sucre (1kg),448.0,73,32704,Enquêteur_A
+Jun,Mfoundi,Yaoundé,Poulet (kg),2803.0,48,134544,Enquêteur_B
+Mar,Mokolo,Douala,Sucre (1kg),607.0,82,49774,Enquêteur_B
+Avr,Mvog-Mbi,Yaoundé,Igname (kg),517.0,56,28952,Enquêteur_B
+Avr,Mokolo,Douala,Manioc (kg),222.0,22,4884,Enquêteur_A
+Fév,Mvog-Mbi,Yaoundé,Plantain (kg),399.0,50,19950,Enquêteur_C
+Jan,Marché Central,Yaoundé,Arachide (kg),444.0,31,13764,Enquêteur_C
+Jan,Mvog-Mbi,Yaoundé,Tomate (kg),509.0,50,25450,Enquêteur_A
+Avr,Marché Biyem,Yaoundé,Plantain (kg),292.0,21,6132,Enquêteur_A
+Jan,New-Bell,Douala,Manioc (kg),237.0,56,13272,Enquêteur_B
+Jun,Grand Marché,Bafoussam,Manioc (kg),245.0,30,7350,Enquêteur_B
+Jun,Mfoundi,Yaoundé,Arachide (kg),565.0,84,47460,Enquêteur_B
+Mar,Sandaga,Douala,Manioc (kg),239.0,19,4541,Enquêteur_A
+Mai,New-Bell,Douala,Poulet (kg),2046.0,8,16368,Enquêteur_A
+Jun,Mokolo,Douala,Plantain (kg),270.0,57,15390,Enquêteur_C
+Fév,New-Bell,Douala,Plantain (kg),113.0,44,4972,Enquêteur_B
+Fév,Marché Biyem,Yaoundé,Igname (kg),145.0,38,5510,Enquêteur_C
+Fév,Sandaga,Douala,Poisson fumé (kg),3828.0,92,352176,Enquêteur_B
+Mai,New-Bell,Douala,Poulet (kg),2542.0,88,223696,Enquêteur_A
+Jun,Marché Biyem,Yaoundé,Manioc (kg),230.0,34,7820,Enquêteur_B
+Jan,Mvog-Mbi,Yaoundé,Poisson fumé (kg),3000.0,14,42000,Enquêteur_A
+Mai,Mokolo,Douala,Arachide (kg),897.0,21,18837,Enquêteur_C
+Mar,Marché Biyem,Yaoundé,Manioc (kg),179.0,23,4117,Enquêteur_C
+Mar,Grand Marché,Bafoussam,Plantain (kg),394.0,88,34672,Enquêteur_B
+Mar,Mvog-Mbi,Yaoundé,Igname (kg),412.0,25,10300,Enquêteur_B
+Jan,New-Bell,Douala,Poulet (kg),2296.0,64,146944,Enquêteur_C
+Jan,Marché Central,Yaoundé,Tomate (kg),300.0,7,2100,Enquêteur_C
+Mai,Mvog-Mbi,Yaoundé,Arachide (kg),781.0,80,62480,Enquêteur_A
+Fév,Mvog-Mbi,Yaoundé,Sucre (1kg),450.0,10,4500,Enquêteur_C
+Avr,Grand Marché,Bafoussam,Poulet (kg),2921.0,33,96393,Enquêteur_A
+Fév,Mvog-Mbi,Yaoundé,Riz (1kg),534.0,75,40050,Enquêteur_B
+Jan,Marché Biyem,Yaoundé,Poulet (kg),2604.0,14,36456,Enquêteur_C
+Fév,Marché Biyem,Yaoundé,Arachide (kg),621.0,28,17388,Enquêteur_A
+Fév,Marché Biyem,Yaoundé,Riz (1kg),444.0,76,33744,Enquêteur_B
+Jan,Mfoundi,Yaoundé,Huile (1L),1177.0,55,64735,Enquêteur_A
+Fév,Mvog-Mbi,Yaoundé,Tomate (kg),50.0,30,1500,Enquêteur_C
+Fév,Mvog-Mbi,Yaoundé,Plantain (kg),417.0,68,28356,Enquêteur_A
+Avr,New-Bell,Douala,Manioc (kg),121.0,75,9075,Enquêteur_A
+Jun,Marché Central,Yaoundé,Plantain (kg),346.0,89,30794,Enquêteur_B
+Mai,Marché Central,Yaoundé,Riz (1kg),367.0,10,3670,Enquêteur_A
+Mai,Mvog-Mbi,Yaoundé,Poisson fumé (kg),4136.0,59,244024,Enquêteur_C
+Fév,Mfoundi,Yaoundé,Huile (1L),772.0,54,41688,Enquêteur_C
+Fév,New-Bell,Douala,Plantain (kg),230.0,43,9890,Enquêteur_C
+Mar,Mfoundi,Yaoundé,Poisson fumé (kg),4130.0,11,45430,Enquêteur_C
+Avr,Mfoundi,Yaoundé,Poulet (kg),,34,87754,Enquêteur_A
+Fév,Marché Biyem,Yaoundé,Arachide (kg),613.0,38,23294,Enquêteur_C
+Avr,New-Bell,Douala,Arachide (kg),657.0,8,5256,Enquêteur_A
+Jun,New-Bell,Douala,Arachide (kg),722.0,81,58482,Enquêteur_B
+Mar,Mokolo,Douala,Sucre (1kg),522.0,22,11484,Enquêteur_A
+Jan,Sandaga,Douala,Tomate (kg),50.0,99,4950,Enquêteur_B
+Fév,Mvog-Mbi,Yaoundé,Sucre (1kg),528.0,47,24816,Enquêteur_A
+Jun,Marché Central,Yaoundé,Huile (1L),936.0,34,31824,Enquêteur_B
+Jan,Mvog-Mbi,Yaoundé,Plantain (kg),373.0,23,8579,Enquêteur_A
+Mar,Marché Biyem,Yaoundé,Plantain (kg),353.0,61,21533,Enquêteur_A
+Mar,Mfoundi,Yaoundé,Igname (kg),346.0,37,12802,Enquêteur_C
+Fév,Marché Biyem,Yaoundé,Tomate (kg),296.0,83,24568,Enquêteur_A
+Mar,Sandaga,Douala,Poisson fumé (kg),3838.0,90,345420,Enquêteur_B
+Mai,Sandaga,Douala,Plantain (kg),403.0,3,1209,Enquêteur_A
+Mar,Mfoundi,Yaoundé,Sucre (1kg),555.0,77,42735,Enquêteur_A
+Avr,Marché Biyem,Yaoundé,Manioc (kg),140.0,15,2100,Enquêteur_C
+Mai,Marché Central,Yaoundé,Manioc (kg),269.0,17,4573,Enquêteur_C
+Fév,Mfoundi,Yaoundé,Riz (1kg),452.0,85,38420,Enquêteur_C
+Fév,Grand Marché,Bafoussam,Poisson fumé (kg),,54,170478,Enquêteur_C
+Avr,Mokolo,Douala,Poisson fumé (kg),3552.0,53,188256,Enquêteur_A
+Jan,Mfoundi,Yaoundé,Huile (1L),964.0,6,5784,Enquêteur_A
+Mar,Mfoundi,Yaoundé,Poisson fumé (kg),29390.0,74,217486,Enquêteur_C
+Avr,Mfoundi,Yaoundé,Riz (1kg),476.0,16,7616,Enquêteur_B
+Mar,Mfoundi,Yaoundé,Plantain (kg),472.0,38,17936,Enquêteur_C
+Jan,New-Bell,Douala,Sucre (1kg),5340.0,3,1602,Enquêteur_B
+Mar,Marché Central,Yaoundé,Plantain (kg),409.0,12,4908,Enquêteur_A
+Fév,Mvog-Mbi,Yaoundé,Riz (1kg),743.0,14,10402,Enquêteur_B
+Avr,Sandaga,Douala,Poulet (kg),2777.0,20,55540,Enquêteur_B
+Mai,Marché Biyem,Yaoundé,Manioc (kg),211.0,84,17724,Enquêteur_B
+Mar,New-Bell,Douala,Poulet (kg),2548.0,45,114660,Enquêteur_C
+Mar,New-Bell,Douala,Tomate (kg),481.0,49,23569,Enquêteur_B
+Fév,Mokolo,Douala,Poisson fumé (kg),3659.0,44,160996,Enquêteur_A
+Mai,Mvog-Mbi,Yaoundé,Huile (1L),1266.0,94,119004,Enquêteur_C
+Jan,Marché Biyem,Yaoundé,Riz (1kg),508.0,83,42164,Enquêteur_C
+Mar,Mvog-Mbi,Yaoundé,Huile (1L),1084.0,20,21680,Enquêteur_A
+Avr,New-Bell,Douala,Arachide (kg),901.0,39,35139,Enquêteur_C
+Avr,Marché Central,Yaoundé,Huile (1L),755.0,54,40770,Enquêteur_C
+Avr,Marché Biyem,Yaoundé,Poulet (kg),2014.0,50,100700,Enquêteur_A
+Avr,Marché Biyem,Yaoundé,Igname (kg),524.0,47,24628,Enquêteur_C
+Mar,New-Bell,Douala,Manioc (kg),163.0,40,6520,Enquêteur_B
+Fév,Mvog-Mbi,Yaoundé,Tomate (kg),228.0,74,16872,Enquêteur_B
+Avr,Sandaga,Douala,Huile (1L),858.0,81,69498,Enquêteur_B
+Mai,New-Bell,Douala,Riz (1kg),355.0,29,10295,Enquêteur_A
+Mar,Mokolo,Douala,Poulet (kg),2192.0,70,153440,Enquêteur_A
+Fév,Sandaga,Douala,Plantain (kg),346.0,40,13840,Enquêteur_B
+Mar,Grand Marché,Bafoussam,Huile (1L),1346.0,66,88836,Enquêteur_A
+Jun,Mokolo,Douala,Sucre (1kg),623.0,44,27412,Enquêteur_B
+Fév,New-Bell,Douala,Igname (kg),443.0,58,25694,Enquêteur_B
+Avr,Mfoundi,Yaoundé,Tomate (kg),279.0,3,837,Enquêteur_C
+Avr,Marché Biyem,Yaoundé,Sucre (1kg),616.0,88,54208,Enquêteur_B
+Fév,Sandaga,Douala,Huile (1L),742.0,92,68264,Enquêteur_B
+Fév,New-Bell,Douala,Riz (1kg),547.0,19,10393,Enquêteur_B
+Mar,Marché Biyem,Yaoundé,Igname (kg),512.0,60,30720,Enquêteur_A
+Avr,Mfoundi,Yaoundé,Riz (1kg),597.0,61,36417,Enquêteur_C
+Avr,Grand Marché,Bafoussam,Riz (1kg),554.0,92,50968,Enquêteur_C
+Jun,Marché Central,Yaoundé,Riz (1kg),412.0,17,7004,Enquêteur_A
+Mai,Marché Central,Yaoundé,Arachide (kg),516.0,85,43860,Enquêteur_A
+Mar,New-Bell,Douala,Sucre (1kg),631.0,50,31550,Enquêteur_C
+Jan,Mokolo,Douala,Igname (kg),422.0,64,27008,Enquêteur_A
+Mar,Grand Marché,Bafoussam,Tomate (kg),512.0,31,15872,Enquêteur_A
+Fév,Marché Biyem,Yaoundé,Plantain (kg),391.0,18,7038,Enquêteur_B
+Jan,Mvog-Mbi,Yaoundé,Poisson fumé (kg),1905.0,71,135255,Enquêteur_A
+Avr,Sandaga,Douala,Riz (1kg),511.0,99,50589,Enquêteur_A
+Fév,New-Bell,Douala,Plantain (kg),316.0,57,18012,Enquêteur_B
+Fév,Marché Biyem,Yaoundé,Manioc (kg),191.0,80,15280,Enquêteur_C
+Jan,Mfoundi,Yaoundé,Huile (1L),810.0,36,29160,Enquêteur_A
+Mai,Marché Central,Yaoundé,Plantain (kg),484.0,58,28072,Enquêteur_B
+Mai,Sandaga,Douala,Sucre (1kg),558.0,77,42966,Enquêteur_A
+Fév,New-Bell,Douala,Sucre (1kg),585.0,71,41535,Enquêteur_B
+Fév,Mokolo,Douala,Poulet (kg),2100.0,86,180600,Enquêteur_C
+Mar,Marché Central,Yaoundé,Poisson fumé (kg),2678.0,26,69628,Enquêteur_C
+Mai,Grand Marché,Bafoussam,Huile (1L),1388.0,87,120756,Enquêteur_B
+Avr,Mvog-Mbi,Yaoundé,Sucre (1kg),635.0,21,13335,Enquêteur_A
+Jan,Grand Marché,Bafoussam,Tomate (kg),388.0,73,28324,Enquêteur_B
+Avr,Mvog-Mbi,Yaoundé,Poulet (kg),2612.0,95,248140,Enquêteur_A
+Jun,Mfoundi,Yaoundé,Arachide (kg),470.0,97,45590,Enquêteur_A
+Jun,Sandaga,Douala,Plantain (kg),460.0,7,3220,Enquêteur_C
+Fév,Mokolo,Douala,Sucre (1kg),504.0,6,3024,Enquêteur_A
+Mai,Marché Central,Yaoundé,Huile (1L),1265.0,77,97405,Enquêteur_B
+Avr,Mokolo,Douala,Huile (1L),1346.0,49,65954,Enquêteur_B
+Fév,Mvog-Mbi,Yaoundé,Riz (1kg),344.0,66,22704,Enquêteur_C
+Mar,Mfoundi,Yaoundé,Riz (1kg),473.0,67,31691,Enquêteur_A
+Avr,Grand Marché,Bafoussam,Plantain (kg),376.0,93,34968,Enquêteur_A
+Jun,Mfoundi,Yaoundé,Arachide (kg),686.0,95,65170,Enquêteur_C
+Mai,Marché Biyem,Yaoundé,Poulet (kg),3464.0,49,169736,Enquêteur_A
+Jan,Sandaga,Douala,Sucre (1kg),564.0,15,8460,Enquêteur_B
+Mar,Marché Biyem,Yaoundé,Poisson fumé (kg),3580.0,20,71600,Enquêteur_C
+Mai,Mfoundi,Yaoundé,Sucre (1kg),663.0,83,55029,Enquêteur_C
+Avr,Marché Biyem,Yaoundé,Sucre (1kg),575.0,72,41400,Enquêteur_A
+Jun,Marché Biyem,Yaoundé,Riz (1kg),462.0,19,8778,Enquêteur_B
+Jun,Mokolo,Douala,Manioc (kg),,80,8320,Enquêteur_A
+Jun,New-Bell,Douala,Arachide (kg),687.0,82,56334,Enquêteur_B
+Fév,Mvog-Mbi,Yaoundé,Manioc (kg),198.0,6,1188,Enquêteur_A
+Avr,Grand Marché,Bafoussam,Tomate (kg),84.0,76,6384,Enquêteur_C
+Fév,Marché Central,Yaoundé,Igname (kg),330.0,52,17160,Enquêteur_C
+Avr,Mokolo,Douala,Poisson fumé (kg),4438.0,95,421610,Enquêteur_C
+Jan,Sandaga,Douala,Sucre (1kg),467.0,49,22883,Enquêteur_C
+Avr,Marché Biyem,Yaoundé,Poulet (kg),,76,191140,Enquêteur_C
+Fév,Grand Marché,Bafoussam,Igname (kg),346.0,8,2768,Enquêteur_A
+Jun,Grand Marché,Bafoussam,Manioc (kg),216.0,55,11880,Enquêteur_A
+Jan,Grand Marché,Bafoussam,Huile (1L),853.0,91,77623,Enquêteur_A
+Fév,Mfoundi,Yaoundé,Arachide (kg),483.0,25,12075,Enquêteur_B
+Fév,Marché Biyem,Yaoundé,Huile (1L),1075.0,93,99975,Enquêteur_C
+Fév,Marché Biyem,Yaoundé,Poisson fumé (kg),4206.0,64,269184,Enquêteur_B
+Mai,Mokolo,Douala,Riz (1kg),,90,40680,Enquêteur_A
+Avr,New-Bell,Douala,Manioc (kg),73.0,65,4745,Enquêteur_B
+Fév,Mokolo,Douala,Manioc (kg),103.0,82,8446,Enquêteur_B
+Fév,Mfoundi,Yaoundé,Arachide (kg),837.0,89,74493,Enquêteur_A
+Mai,Marché Central,Yaoundé,Arachide (kg),644.0,44,28336,Enquêteur_B
+Avr,Grand Marché,Bafoussam,Plantain (kg),302.0,53,16006,Enquêteur_C
+Mai,Grand Marché,Bafoussam,Igname (kg),503.0,42,21126,Enquêteur_A
+Mar,Mfoundi,Yaoundé,Manioc (kg),92.0,15,1380,Enquêteur_C
+Mai,New-Bell,Douala,Sucre (1kg),547.0,16,8752,Enquêteur_A
+Avr,Marché Biyem,Yaoundé,Poulet (kg),2361.0,53,125133,Enquêteur_A
+Mar,New-Bell,Douala,Huile (1L),1174.0,40,46960,Enquêteur_C
+Avr,Mvog-Mbi,Yaoundé,Tomate (kg),412.0,37,15244,Enquêteur_B
+Jan,New-Bell,Douala,Arachide (kg),582.0,37,21534,Enquêteur_C
+Avr,Mvog-Mbi,Yaoundé,Plantain (kg),488.0,60,29280,Enquêteur_A
+Jan,Sandaga,Douala,Riz (1kg),350.0,78,27300,Enquêteur_B
+Avr,Grand Marché,Bafoussam,Igname (kg),448.0,56,25088,Enquêteur_B
+Fév,Marché Central,Yaoundé,Tomate (kg),403.0,86,34658,Enquêteur_B
+Jan,Mokolo,Douala,Manioc (kg),139.0,92,12788,Enquêteur_B
+Jun,Mokolo,Douala,Manioc (kg),149.0,86,12814,Enquêteur_B
+Avr,Mvog-Mbi,Yaoundé,Riz (1kg),521.0,63,32823,Enquêteur_A
+Fév,Grand Marché,Bafoussam,Huile (1L),1018.0,5,5090,Enquêteur_B
+Fév,New-Bell,Douala,Plantain (kg),275.0,84,23100,Enquêteur_C
+Fév,Marché Central,Yaoundé,Poulet (kg),2674.0,83,221942,Enquêteur_C
+Fév,Grand Marché,Bafoussam,Tomate (kg),178.0,51,9078,Enquêteur_B
+Mar,Marché Central,Yaoundé,Poisson fumé (kg),3229.0,99,319671,Enquêteur_B
+Mai,Grand Marché,Bafoussam,Tomate (kg),304.0,23,6992,Enquêteur_C
+Mar,Sandaga,Douala,Igname (kg),590.0,25,14750,Enquêteur_A
+Fév,Marché Biyem,Yaoundé,Arachide (kg),638.0,13,8294,Enquêteur_C
+Avr,Grand Marché,Bafoussam,Riz (1kg),443.0,96,42528,Enquêteur_B
+Mai,Mokolo,Douala,Poulet (kg),2915.0,36,104940,Enquêteur_A
+Avr,Grand Marché,Bafoussam,Arachide (kg),677.0,37,25049,Enquêteur_A
+Jun,Mfoundi,Yaoundé,Poisson fumé (kg),3313.0,95,314735,Enquêteur_B
+Mar,Mfoundi,Yaoundé,Poulet (kg),1785.0,73,130305,Enquêteur_C
+Mar,Mvog-Mbi,Yaoundé,Manioc (kg),,81,18144,Enquêteur_A
+Jan,Marché Biyem,Yaoundé,Riz (1kg),419.0,67,28073,Enquêteur_A
+Jan,Marché Central,Yaoundé,Plantain (kg),260.0,55,14300,Enquêteur_B
+Mar,Mokolo,Douala,Igname (kg),537.0,65,34905,Enquêteur_A
+Jun,Sandaga,Douala,Plantain (kg),244.0,64,15616,Enquêteur_B
+Jan,Sandaga,Douala,Poulet (kg),3212.0,66,211992,Enquêteur_B
+Fév,Marché Central,Yaoundé,Huile (1L),1102.0,11,12122,Enquêteur_A
+Avr,Mvog-Mbi,Yaoundé,Sucre (1kg),600.0,87,52200,Enquêteur_A
+Jan,New-Bell,Douala,Igname (kg),329.0,42,13818,Enquêteur_C
+Fév,Mvog-Mbi,Yaoundé,Poisson fumé (kg),2707.0,94,254458,Enquêteur_A
+Jan,Grand Marché,Bafoussam,Manioc (kg),198.0,37,7326,Enquêteur_C
+Jan,Sandaga,Douala,Huile (1L),1237.0,85,105145,Enquêteur_C
+Avr,Marché Central,Yaoundé,Igname (kg),652.0,45,29340,Enquêteur_B
+Avr,Marché Central,Yaoundé,Plantain (kg),201.0,96,19296,Enquêteur_B
+Avr,Grand Marché,Bafoussam,Arachide (kg),870.0,20,17400,Enquêteur_C
+Mar,New-Bell,Douala,Igname (kg),375.0,87,32625,Enquêteur_C
+Mar,New-Bell,Douala,Manioc (kg),209.0,86,17974,Enquêteur_C
+Mar,Marché Central,Yaoundé,Arachide (kg),571.0,54,30834,Enquêteur_A
+Jan,Marché Central,Yaoundé,Poulet (kg),3383.0,8,27064,Enquêteur_A
+Jan,Marché Biyem,Yaoundé,Plantain (kg),197.0,27,5319,Enquêteur_B
+Mar,Mfoundi,Yaoundé,Manioc (kg),205.0,61,12505,Enquêteur_A
+Avr,Sandaga,Douala,Huile (1L),1127.0,11,12397,Enquêteur_C
+Jan,Mfoundi,Yaoundé,Poulet (kg),2278.0,73,166294,Enquêteur_A
+Avr,Mokolo,Douala,Plantain (kg),447.0,5,2235,Enquêteur_C
+Fév,Sandaga,Douala,Arachide (kg),839.0,10,8390,Enquêteur_A
+Fév,Mvog-Mbi,Yaoundé,Tomate (kg),225.0,44,9900,Enquêteur_C
+Mar,Mfoundi,Yaoundé,Riz (1kg),442.0,88,38896,Enquêteur_A
+Mai,Mfoundi,Yaoundé,Huile (1L),1739.0,60,104340,Enquêteur_A
+Jun,Sandaga,Douala,Arachide (kg),718.0,47,33746,Enquêteur_B
+Avr,Mokolo,Douala,Plantain (kg),407.0,6,2442,Enquêteur_C
+Avr,Mokolo,Douala,Igname (kg),619.0,62,38378,Enquêteur_A
+Mar,Marché Central,Yaoundé,Huile (1L),1416.0,39,55224,Enquêteur_A
+Avr,Mvog-Mbi,Yaoundé,Igname (kg),452.0,53,23956,Enquêteur_A
+Jan,New-Bell,Douala,Riz (1kg),317.0,95,30115,Enquêteur_B
+Jan,New-Bell,Douala,Tomate (kg),273.0,91,24843,Enquêteur_C
+Mai,Mfoundi,Yaoundé,Riz (1kg),600.0,30,18000,Enquêteur_A
+Jan,Mfoundi,Yaoundé,Sucre (1kg),647.0,26,16822,Enquêteur_C
+Jan,Sandaga,Douala,Plantain (kg),295.0,75,22125,Enquêteur_A
+Fév,Grand Marché,Bafoussam,Arachide (kg),571.0,75,42825,Enquêteur_C
+Avr,Sandaga,Douala,Manioc (kg),202.0,67,13534,Enquêteur_A
+Fév,New-Bell,Douala,Plantain (kg),350.0,79,27650,Enquêteur_C
+Jan,New-Bell,Douala,Poisson fumé (kg),3688.0,54,199152,Enquêteur_C
+Jan,Grand Marché,Bafoussam,Poisson fumé (kg),3808.0,52,198016,Enquêteur_A
+Mai,Mokolo,Douala,Igname (kg),507.0,58,29406,Enquêteur_A
+Jan,Marché Central,Yaoundé,Arachide (kg),628.0,63,39564,Enquêteur_B
+Fév,Mvog-Mbi,Yaoundé,Igname (kg),483.0,79,38157,Enquêteur_C
+Mai,Mokolo,Douala,Poulet (kg),3400.0,46,156400,Enquêteur_A
+Avr,Marché Central,Yaoundé,Riz (1kg),494.0,99,48906,Enquêteur_B
+Mar,Marché Central,Yaoundé,Tomate (kg),,1,370,Enquêteur_C
+Fév,Grand Marché,Bafoussam,Riz (1kg),521.0,34,17714,Enquêteur_C
+Avr,Mvog-Mbi,Yaoundé,Huile (1L),1248.0,43,53664,Enquêteur_B
+Fév,Marché Biyem,Yaoundé,Riz (1kg),591.0,60,35460,Enquêteur_B
+Jun,Mvog-Mbi,Yaoundé,Plantain (kg),277.0,46,12742,Enquêteur_B
+Mar,Grand Marché,Bafoussam,Igname (kg),510.0,31,15810,Enquêteur_B
+Avr,Marché Central,Yaoundé,Manioc (kg),177.0,50,8850,Enquêteur_A
+Jun,Sandaga,Douala,Igname (kg),577.0,46,26542,Enquêteur_B
+Mar,Mokolo,Douala,Plantain (kg),250.0,46,11500,Enquêteur_C
+Fév,Mvog-Mbi,Yaoundé,Plantain (kg),458.0,50,22900,Enquêteur_C
+Mar,Mvog-Mbi,Yaoundé,Poulet (kg),2000.0,53,106000,Enquêteur_A
+Jan,New-Bell,Douala,Sucre (1kg),614.0,29,17806,Enquêteur_B
+Mai,Mvog-Mbi,Yaoundé,Sucre (1kg),685.0,15,10275,Enquêteur_A
+Mar,Mvog-Mbi,Yaoundé,Manioc (kg),106.0,63,6678,Enquêteur_A
+Mar,Grand Marché,Bafoussam,Riz (1kg),394.0,81,31914,Enquêteur_C
+Mai,Marché Central,Yaoundé,Arachide (kg),704.0,92,64768,Enquêteur_C
+Avr,Sandaga,Douala,Arachide (kg),481.0,86,41366,Enquêteur_C
+Mar,Mvog-Mbi,Yaoundé,Arachide (kg),671.0,99,66429,Enquêteur_B
+Mai,Marché Biyem,Yaoundé,Tomate (kg),190.0,21,3990,Enquêteur_C
+Avr,Mvog-Mbi,Yaoundé,Manioc (kg),213.0,68,14484,Enquêteur_A
+Avr,Sandaga,Douala,Arachide (kg),740.0,59,43660,Enquêteur_B
+Jan,Marché Central,Yaoundé,Huile (1L),980.0,99,97020,Enquêteur_B
+Mar,New-Bell,Douala,Igname (kg),246.0,92,22632,Enquêteur_C
+Mar,Marché Biyem,Yaoundé,Huile (1L),1209.0,16,19344,Enquêteur_A
+Jun,Marché Central,Yaoundé,Poisson fumé (kg),4073.0,78,317694,Enquêteur_A
+Fév,New-Bell,Douala,Sucre (1kg),547.0,63,34461,Enquêteur_A
+Avr,Mfoundi,Yaoundé,Riz (1kg),552.0,97,53544,Enquêteur_C
+Jan,Marché Central,Yaoundé,Poisson fumé (kg),3504.0,99,346896,Enquêteur_B
+Avr,New-Bell,Douala,Poulet (kg),2568.0,27,69336,Enquêteur_B
+Jan,Mvog-Mbi,Yaoundé,Poulet (kg),2779.0,95,264005,Enquêteur_B
+Jan,Grand Marché,Bafoussam,Arachide (kg),727.0,40,29080,Enquêteur_C
+Jan,Mokolo,Douala,Poisson fumé (kg),2824.0,84,237216,Enquêteur_C
+Jun,Mokolo,Douala,Manioc (kg),204.0,36,7344,Enquêteur_A
+Mar,Mokolo,Douala,Riz (1kg),345.0,8,2760,Enquêteur_B
+Fév,Sandaga,Douala,Plantain (kg),354.0,42,14868,Enquêteur_A
+Mar,Grand Marché,Bafoussam,Poulet (kg),1962.0,76,149112,Enquêteur_A
+Jan,Sandaga,Douala,Plantain (kg),588.0,81,47628,Enquêteur_B
+Mai,New-Bell,Douala,Poisson fumé (kg),3408.0,6,20448,Enquêteur_B
+Fév,Mokolo,Douala,Poulet (kg),2718.0,31,84258,Enquêteur_A
+Fév,Marché Biyem,Yaoundé,Sucre (1kg),633.0,74,46842,Enquêteur_A
+Mai,Grand Marché,Bafoussam,Tomate (kg),367.0,41,15047,Enquêteur_C
+Fév,New-Bell,Douala,Tomate (kg),366.0,34,12444,Enquêteur_B
+Jun,New-Bell,Douala,Huile (1L),1326.0,33,43758,Enquêteur_A
+Jan,Mfoundi,Yaoundé,Tomate (kg),476.0,97,46172,Enquêteur_C
+Fév,Mvog-Mbi,Yaoundé,Manioc (kg),151.0,25,3775,Enquêteur_A
+Avr,Marché Central,Yaoundé,Riz (1kg),579.0,80,46320,Enquêteur_C
+Avr,Mvog-Mbi,Yaoundé,Manioc (kg),213.0,68,14484,Enquêteur_A
+Jun,Mfoundi,Yaoundé,Arachide (kg),686.0,95,65170,Enquêteur_C
+Jun,Grand Marché,Bafoussam,Manioc (kg),245.0,30,7350,Enquêteur_B
+Jun,Marché Central,Yaoundé,Poisson fumé (kg),4073.0,78,317694,Enquêteur_A
+Jun,Mokolo,Douala,Plantain (kg),,65,12545,Enquêteur_B
+Fév,New-Bell,Douala,Sucre (1kg),585.0,71,41535,Enquêteur_B
+Fév,Sandaga,Douala,Plantain (kg),393.0,23,9039,Enquêteur_C
+Fév,Mvog-Mbi,Yaoundé,Riz (1kg),743.0,14,10402,Enquêteur_B
+Mai,Marché Central,Yaoundé,Tomate (kg),200.0,98,19600,Enquêteur_C
+Jan,Mvog-Mbi,Yaoundé,Poulet (kg),2779.0,95,264005,Enquêteur_B
+Fév,New-Bell,Douala,Plantain (kg),275.0,84,23100,Enquêteur_C
+Fév,Mfoundi,Yaoundé,Arachide (kg),467.0,63,29421,Enquêteur_C
+Mai,Mfoundi,Yaoundé,Plantain (kg),133.0,21,2793,Enquêteur_B

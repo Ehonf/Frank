@@ -1,0 +1,81 @@
+mois,marche,produit,prix_fcfa,quantite,total,statut_prix,ecart_median_pct,tranche_prix
+Janvier 2024,New-Bell,Arachide (kg),524.0,8.0,4192.0,Bonne affaire,-15.07293354943274,Moyen
+Mars 2024,Mfoundi,Poulet (kg),2445.0,23.0,56235.0,Prix normal,-5.961538461538462,Premium
+Janvier 2024,Marché Mvog-Mbi,Tomate (kg),260.0,24.0,6240.0,Prix normal,-2.2556390977443606,Bas
+Février 2024,Mfoundi,Tomate (kg),272.0,30.0,8160.0,Prix normal,2.2556390977443606,Bas
+Janvier 2024,Sandaga,Igname (kg),418.0,22.0,9196.0,Prix normal,-0.9478672985781991,Moyen
+Janvier 2024,New-Bell,Poulet (kg),2291.0,42.0,96222.0,Bonne affaire,-11.884615384615385,Premium
+Mars 2024,New-Bell,Poisson fumé (kg),2912.125,47.0,136869.875,Prix normal,0.0,Premium
+Mars 2024,Marché Mvog-Mbi,Igname (kg),477.0,22.0,10494.0,Cher,13.033175355450238,Moyen
+Mars 2024,Marché Mvog-Mbi,Poulet (kg),2170.0,39.0,84630.0,Bonne affaire,-16.538461538461537,Premium
+Janvier 2024,New-Bell,Huile (1L),1423.0,9.0,12807.0,Cher,25.264084507042256,Élevé
+Février 2024,Mfoundi,Huile (1L),1136.0,47.0,53392.0,Prix normal,0.0,Élevé
+Janvier 2024,New-Bell,Plantain (kg),339.0,35.0,11865.0,Prix normal,0.0,Moyen
+Février 2024,Mokolo,Igname (kg),426.0,2.0,852.0,Prix normal,0.9478672985781991,Moyen
+Février 2024,Sandaga,Igname (kg),325.0,18.0,5850.0,Bonne affaire,-22.985781990521325,Moyen
+Février 2024,New-Bell,Huile (1L),1149.0,36.0,41364.0,Prix normal,1.1443661971830987,Élevé
+Janvier 2024,New-Bell,Igname (kg),473.0,21.0,9933.0,Cher,12.085308056872037,Moyen
+Février 2024,Mfoundi,Poisson fumé (kg),2912.125,24.0,69891.0,Prix normal,0.0,Premium
+Janvier 2024,Mokolo,Huile (1L),1027.0,15.0,15405.0,Prix normal,-9.59507042253521,Élevé
+Janvier 2024,Mokolo,Poulet (kg),2912.125,24.0,69891.0,Cher,12.004807692307692,Premium
+Mars 2024,New-Bell,Riz (1kg),563.0,17.0,9571.0,Cher,26.516853932584272,Moyen
+Mars 2024,Marché Mvog-Mbi,Poisson fumé (kg),2912.125,5.0,14560.625,Prix normal,0.0,Premium
+Janvier 2024,Sandaga,Huile (1L),1399.0,9.0,12591.0,Cher,23.151408450704224,Élevé
+Février 2024,New-Bell,Poisson fumé (kg),2912.125,23.0,66978.875,Prix normal,0.0,Premium
+Mars 2024,Mfoundi,Igname (kg),414.0,22.0,9108.0,Prix normal,-1.8957345971563981,Moyen
+Janvier 2024,Marché Mvog-Mbi,Tomate (kg),238.0,47.0,11186.0,Bonne affaire,-10.526315789473683,Bas
+Janvier 2024,Marché Mvog-Mbi,Igname (kg),435.0,14.0,6090.0,Prix normal,3.080568720379147,Moyen
+Janvier 2024,Marché Mvog-Mbi,Arachide (kg),650.0,26.0,16900.0,Prix normal,5.348460291734198,Élevé
+Janvier 2024,New-Bell,Huile (1L),1056.0,32.0,33792.0,Prix normal,-7.042253521126761,Élevé
+Janvier 2024,Mokolo,Arachide (kg),602.0,30.0,18060.0,Prix normal,-2.4311183144246353,Élevé
+Mars 2024,Mfoundi,Poulet (kg),2755.0,0.0,0.0,Prix normal,5.961538461538462,Premium
+Mars 2024,Marché Mvog-Mbi,Poulet (kg),2600.0,2.0,5200.0,Prix normal,0.0,Premium
+Février 2024,Mfoundi,Huile (1L),1264.0,6.0,7584.0,Cher,11.267605633802818,Élevé
+Février 2024,New-Bell,Plantain (kg),345.0,28.0,9660.0,Prix normal,1.7699115044247788,Moyen
+Janvier 2024,Mokolo,Riz (1kg),445.0,13.0,5785.0,Prix normal,0.0,Moyen
+Mars 2024,Marché Mvog-Mbi,Riz (1kg),432.0,13.0,5616.0,Prix normal,-2.9213483146067416,Moyen
+Janvier 2024,Mfoundi,Riz (1kg),423.0,13.0,5499.0,Prix normal,-4.943820224719101,Moyen
+Février 2024,Marché Mvog-Mbi,Poisson fumé (kg),2912.125,24.0,69891.0,Prix normal,0.0,Premium
+Janvier 2024,New-Bell,Riz (1kg),412.0,12.0,4944.0,Prix normal,-7.415730337078652,Moyen
+Mars 2024,Sandaga,Igname (kg),368.0,49.0,18032.0,Bonne affaire,-12.796208530805686,Moyen
+Mars 2024,Mokolo,Poisson fumé (kg),2912.125,2.0,5824.25,Prix normal,0.0,Premium
+Janvier 2024,Mfoundi,Plantain (kg),316.0,2.0,632.0,Prix normal,-6.784660766961652,Moyen
+Février 2024,New-Bell,Poulet (kg),2912.125,32.0,93188.0,Cher,12.004807692307692,Premium
+Mars 2024,New-Bell,Arachide (kg),662.0,17.0,11254.0,Prix normal,7.293354943273905,Élevé
+Février 2024,Mfoundi,Arachide (kg),632.0,11.0,6952.0,Prix normal,2.4311183144246353,Élevé
+Janvier 2024,Mokolo,Arachide (kg),556.0,6.0,3336.0,Prix normal,-9.886547811993516,Moyen
+Mars 2024,Mfoundi,Poisson fumé (kg),2912.125,36.0,104836.5,Prix normal,0.0,Premium
+Mars 2024,Sandaga,Tomate (kg),280.0,20.0,5600.0,Prix normal,5.263157894736842,Bas
+Janvier 2024,New-Bell,Poisson fumé (kg),2912.125,39.0,113572.875,Prix normal,0.0,Premium
+Mars 2024,Mokolo,Huile (1L),1123.0,25.0,28075.0,Prix normal,-1.1443661971830987,Élevé
+Mars 2024,Sandaga,Huile (1L),1069.0,16.0,17104.0,Prix normal,-5.897887323943662,Élevé
+Janvier 2024,Mokolo,Huile (1L),1076.0,48.0,51648.0,Prix normal,-5.28169014084507,Élevé
+Janvier 2024,New-Bell,Igname (kg),464.0,9.0,4176.0,Prix normal,9.95260663507109,Moyen
+Mars 2024,Marché Mvog-Mbi,Riz (1kg),545.0,3.0,1635.0,Cher,22.47191011235955,Moyen
+Mars 2024,Mokolo,Plantain (kg),352.0,0.0,0.0,Prix normal,3.8348082595870205,Moyen
+Février 2024,New-Bell,Igname (kg),321.0,25.0,8025.0,Bonne affaire,-23.933649289099527,Moyen
+Janvier 2024,Mokolo,Tomate (kg),228.0,46.0,10488.0,Bonne affaire,-14.285714285714285,Bas
+Février 2024,Sandaga,Huile (1L),1175.0,41.0,48175.0,Prix normal,3.433098591549296,Élevé
+Janvier 2024,Mokolo,Plantain (kg),299.0,48.0,14352.0,Bonne affaire,-11.799410029498524,Bas
+Janvier 2024,Marché Mvog-Mbi,Plantain (kg),339.0,48.0,16272.0,Prix normal,0.0,Moyen
+Mars 2024,Marché Mvog-Mbi,Plantain (kg),2912.125,22.0,64066.75,Cher,759.0339233038347,Premium
+Mars 2024,Mfoundi,Igname (kg),462.0,27.0,12474.0,Prix normal,9.47867298578199,Moyen
+Janvier 2024,Sandaga,Tomate (kg),250.0,28.0,7000.0,Prix normal,-6.015037593984962,Bas
+Janvier 2024,Mokolo,Arachide (kg),535.0,48.0,25680.0,Bonne affaire,-13.290113452188008,Moyen
+Mars 2024,New-Bell,Tomate (kg),276.0,17.0,4692.0,Prix normal,3.7593984962406015,Bas
+Février 2024,New-Bell,Plantain (kg),354.0,6.0,2124.0,Prix normal,4.424778761061947,Moyen
+Janvier 2024,New-Bell,Tomate (kg),295.0,29.0,8555.0,Cher,10.902255639097744,Bas
+Mars 2024,Mfoundi,Riz (1kg),592.0,33.0,19536.0,Cher,33.03370786516854,Moyen
+Janvier 2024,Mfoundi,Plantain (kg),262.0,33.0,8646.0,Bonne affaire,-22.71386430678466,Bas
+Février 2024,Marché Mvog-Mbi,Poisson fumé (kg),2912.125,31.0,90275.875,Prix normal,0.0,Premium
+Mars 2024,Sandaga,Igname (kg),411.0,24.0,9864.0,Prix normal,-2.6066350710900474,Moyen
+Mars 2024,Sandaga,Huile (1L),1208.0,25.0,30200.0,Prix normal,6.338028169014084,Élevé
+Janvier 2024,Mokolo,Huile (1L),1025.0,48.0,49200.0,Prix normal,-9.77112676056338,Élevé
+Février 2024,Mfoundi,Arachide (kg),2912.125,35.0,101924.375,Cher,371.98136142625606,Premium
+Janvier 2024,Mokolo,Huile (1L),999.0,7.0,6993.0,Bonne affaire,-12.059859154929578,Élevé
+Janvier 2024,New-Bell,Riz (1kg),438.0,8.0,3504.0,Prix normal,-1.5730337078651686,Moyen
+Mars 2024,New-Bell,Poisson fumé (kg),2912.125,28.0,81539.5,Prix normal,0.0,Premium
+Mars 2024,Sandaga,Huile (1L),1282.0,25.0,32050.0,Cher,12.852112676056338,Élevé
+Février 2024,Mfoundi,Huile (1L),1136.0,22.0,24992.0,Prix normal,0.0,Élevé
+Février 2024,New-Bell,Riz (1kg),564.0,43.0,24252.0,Cher,26.741573033707866,Moyen
+Janvier 2024,Mfoundi,Plantain (kg),339.0,44.0,14916.0,Prix normal,0.0,Moyen
